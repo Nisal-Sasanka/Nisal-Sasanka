@@ -12,7 +12,7 @@
 ---
 
 ## 🛠️ Skills
-- **Programming Languages:** C, C#, Java, Python  
+- **Programming Languages:** C, C#, Java, Python, Html, CSS, Php  
 
 ---
 
