@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Nisal Sasanka 👋  
 
-<!--
-**Nisal-Sasanka/Nisal-Sasanka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering Student | 🎮 Game Development Beginner | 🎥 YouTuber  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 💻 Undergraduate at the **Department of Software Engineering, Faculty of Computing, University of Sabaragamuwa**  
+- 🎮 Passionate about **Game Development**  
+- 🎵 Love for **Gaming & Music**  
+
+---
+
+## 🛠️ Skills
+- **Programming Languages:** C, C#, Java, Python  
+
+---
+
+## 📂 Projects
+*(Coming soon – stay tuned as I upload my work!)*  
+
+---
+
+## 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)  
+📧 **Email:** nisaltech2024@gmail.com  
+
+---
+
+⭐ *Thanks for visiting my profile! Feel free to check out my repositories and connect with me.*  
